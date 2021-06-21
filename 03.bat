@@ -5,6 +5,6 @@ git commit -m "adding local repo to remote"
 git branch -M master
 git push github
 git push --set-upstream github master
-git git pushgitlab
+git push gitlab
 git push bitbucket
 pause
